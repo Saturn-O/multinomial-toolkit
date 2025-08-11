@@ -1,0 +1,12 @@
+Package: multinomial
+Title: Multinomial Distribution Toolkit
+Description: Provides a modular toolkit for working with the multinomial distribution. Includes functions to compute the probability mass function, expected values, and covariance matrix. Designed with robust input validation and clear structure for extensibility and reuse in statistical modeling and simulation.
+Version: 1.0
+Authors@R: person("José Guillermo", "Hernández Armendáriz", email = "ghernandez_ar@outlook.com", role = c("aut", "cre", "cph"))
+License: MIT + file LICENSE
+Encoding: UTF-8
+Video: https://youtu.be/2gnTaWyo_SE
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.3.2
