@@ -8,5 +8,7 @@ Encoding: UTF-8
 Video: https://youtu.be/2gnTaWyo_SE
 Suggests: 
     testthat (>= 3.0.0)
+Imports:
+    miniUI
 Config/testthat/edition: 3
 RoxygenNote: 7.3.2
